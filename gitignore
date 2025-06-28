@@ -1,0 +1,9 @@
+# Jupyter and Colab related
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+.DS_Store

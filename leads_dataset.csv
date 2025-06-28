@@ -1,0 +1,201 @@
+Lead_ID,Full_Name,Email,Industry,Engagement_Score,Deal_Size (€),Last_Activity (days ago),Lifecycle_Stage,Region,Lead_Source
+L0001,Julien Petit,user1@example.com,Healthcare,79,9308,18,MQL,Auvergne-Rhône-Alpes,Referral
+L0002,Emma Martin,user2@example.com,Education,95,6949,43,SQL,Occitanie,Paid Ad
+L0003,Julien Martin,user3@example.com,Finance,20,20222,53,SQL,Provence-Alpes-Côte d'Azur,Webinar
+L0004,Luc Petit,user4@example.com,Education,25,2150,38,Customer,Île-de-France,Referral
+L0005,Paul Moreau,user5@example.com,Education,82,24944,26,Lost,Île-de-France,Paid Ad
+L0006,Julien Roux,user6@example.com,Retail,68,2931,9,SQL,Provence-Alpes-Côte d'Azur,Webinar
+L0007,Sophie Roux,user7@example.com,Finance,79,10204,25,Lost,Provence-Alpes-Côte d'Azur,Webinar
+L0008,Marie Martin,user8@example.com,Finance,89,19048,18,SQL,Auvergne-Rhône-Alpes,Referral
+L0009,Lea Durand,user9@example.com,Finance,12,2081,38,SQL,Île-de-France,Organic
+L0010,Emma Lemoine,user10@example.com,Education,29,17896,2,SQL,Occitanie,Webinar
+L0011,Hugo Bernard,user11@example.com,Healthcare,68,14407,44,New,Hauts-de-France,Webinar
+L0012,Lea Moreau,user12@example.com,Finance,45,8805,12,SQL,Hauts-de-France,Paid Ad
+L0013,Sophie Petit,user13@example.com,Education,28,6237,49,SQL,Provence-Alpes-Côte d'Azur,Event
+L0014,Paul Bernard,user14@example.com,Retail,99,17943,27,MQL,Auvergne-Rhône-Alpes,Referral
+L0015,Hugo Martin,user15@example.com,Healthcare,76,21056,57,Lost,Hauts-de-France,Referral
+L0016,Emma Bernard,user16@example.com,Retail,28,13775,19,MQL,Île-de-France,Organic
+L0017,Lea Lemoine,user17@example.com,Healthcare,29,24788,27,SQL,Provence-Alpes-Côte d'Azur,Organic
+L0018,Julien Lemoine,user18@example.com,Education,80,17244,7,SQL,Occitanie,Referral
+L0019,Marie Petit,user19@example.com,Tech,61,14184,40,SQL,Provence-Alpes-Côte d'Azur,Organic
+L0020,Marie Petit,user20@example.com,Healthcare,42,4343,38,MQL,Occitanie,Paid Ad
+L0021,Sophie Moreau,user21@example.com,Retail,49,14500,0,Customer,Provence-Alpes-Côte d'Azur,Referral
+L0022,Marie Durand,user22@example.com,Education,48,21454,2,SQL,Provence-Alpes-Côte d'Azur,Organic
+L0023,Lea Martin,user23@example.com,Healthcare,91,10662,12,New,Provence-Alpes-Côte d'Azur,Referral
+L0024,Lea Bernard,user24@example.com,Tech,10,17964,27,New,Occitanie,Event
+L0025,Sophie Durand,user25@example.com,Tech,20,16125,56,SQL,Occitanie,Webinar
+L0026,Lea Petit,user26@example.com,Finance,66,24388,59,MQL,Provence-Alpes-Côte d'Azur,Referral
+L0027,Lea Robert,user27@example.com,Finance,98,9130,48,MQL,Hauts-de-France,Webinar
+L0028,Luc Moreau,user28@example.com,Retail,59,20531,24,SQL,Auvergne-Rhône-Alpes,Organic
+L0029,Luc Roux,user29@example.com,Healthcare,32,21633,55,MQL,Auvergne-Rhône-Alpes,Webinar
+L0030,Paul Roux,user30@example.com,Healthcare,40,2679,32,SQL,Auvergne-Rhône-Alpes,Referral
+L0031,Julien Robert,user31@example.com,Finance,51,4506,37,MQL,Occitanie,Event
+L0032,Paul Bernard,user32@example.com,Healthcare,16,14284,52,SQL,Occitanie,Organic
+L0033,Luc Moreau,user33@example.com,Healthcare,25,8253,5,MQL,Hauts-de-France,Referral
+L0034,Luc Martin,user34@example.com,Tech,99,20128,57,SQL,Auvergne-Rhône-Alpes,Organic
+L0035,Sophie Robert,user35@example.com,Finance,69,10435,43,New,Auvergne-Rhône-Alpes,Paid Ad
+L0036,Hugo Robert,user36@example.com,Education,11,22572,44,SQL,Provence-Alpes-Côte d'Azur,Webinar
+L0037,Lea Petit,user37@example.com,Finance,10,12310,31,MQL,Occitanie,Paid Ad
+L0038,Lea Robert,user38@example.com,Education,57,14296,44,Customer,Auvergne-Rhône-Alpes,Referral
+L0039,Paul Martin,user39@example.com,Tech,21,19525,46,SQL,Hauts-de-France,Event
+L0040,Marie Lemoine,user40@example.com,Retail,78,14245,20,Lost,Hauts-de-France,Organic
+L0041,Paul Martin,user41@example.com,Healthcare,46,12151,15,SQL,Auvergne-Rhône-Alpes,Webinar
+L0042,Paul Bernard,user42@example.com,Tech,41,11457,53,MQL,Occitanie,Organic
+L0043,Luc Bernard,user43@example.com,Healthcare,18,24001,20,Customer,Hauts-de-France,Referral
+L0044,Julien Durand,user44@example.com,Retail,28,3479,10,MQL,Provence-Alpes-Côte d'Azur,Organic
+L0045,Paul Lemoine,user45@example.com,Retail,57,23868,59,MQL,Hauts-de-France,Webinar
+L0046,Luc Petit,user46@example.com,Tech,89,24805,36,New,Île-de-France,Referral
+L0047,Emma Lemoine,user47@example.com,Retail,12,5452,35,SQL,Île-de-France,Organic
+L0048,Hugo Durand,user48@example.com,Education,29,6881,34,SQL,Occitanie,Event
+L0049,Luc Martin,user49@example.com,Retail,33,24049,18,MQL,Auvergne-Rhône-Alpes,Referral
+L0050,Julien Martin,user50@example.com,Healthcare,63,15069,19,Customer,Occitanie,Referral
+L0051,Lea Bernard,user51@example.com,Healthcare,42,3849,56,New,Occitanie,Event
+L0052,Sophie Moreau,user52@example.com,Healthcare,33,8390,17,MQL,Occitanie,Paid Ad
+L0053,Luc Roux,user53@example.com,Healthcare,84,24289,46,MQL,Occitanie,Webinar
+L0054,Paul Roux,user54@example.com,Education,81,12922,40,New,Provence-Alpes-Côte d'Azur,Paid Ad
+L0055,Emma Lemoine,user55@example.com,Finance,45,3489,48,MQL,Provence-Alpes-Côte d'Azur,Organic
+L0056,Emma Bernard,user56@example.com,Tech,47,10823,13,SQL,Hauts-de-France,Event
+L0057,Sophie Robert,user57@example.com,Healthcare,93,10207,14,SQL,Île-de-France,Paid Ad
+L0058,Paul Martin,user58@example.com,Retail,98,10540,30,New,Occitanie,Referral
+L0059,Paul Durand,user59@example.com,Healthcare,34,17364,0,MQL,Hauts-de-France,Organic
+L0060,Marie Durand,user60@example.com,Retail,27,5611,52,New,Île-de-France,Organic
+L0061,Paul Robert,user61@example.com,Retail,91,20223,53,Customer,Auvergne-Rhône-Alpes,Paid Ad
+L0062,Luc Petit,user62@example.com,Healthcare,75,6878,53,New,Provence-Alpes-Côte d'Azur,Paid Ad
+L0063,Paul Bernard,user63@example.com,Education,63,17347,2,SQL,Île-de-France,Event
+L0064,Emma Petit,user64@example.com,Retail,44,23687,15,Lost,Auvergne-Rhône-Alpes,Webinar
+L0065,Lea Moreau,user65@example.com,Retail,89,1851,22,SQL,Île-de-France,Paid Ad
+L0066,Emma Martin,user66@example.com,Healthcare,70,19071,56,Lost,Provence-Alpes-Côte d'Azur,Paid Ad
+L0067,Marie Bernard,user67@example.com,Retail,50,7833,10,MQL,Provence-Alpes-Côte d'Azur,Referral
+L0068,Sophie Lemoine,user68@example.com,Retail,42,12938,11,SQL,Hauts-de-France,Organic
+L0069,Emma Durand,user69@example.com,Healthcare,77,3427,9,SQL,Occitanie,Webinar
+L0070,Paul Roux,user70@example.com,Healthcare,42,5000,31,SQL,Île-de-France,Referral
+L0071,Julien Moreau,user71@example.com,Tech,23,6052,15,New,Île-de-France,Event
+L0072,Luc Roux,user72@example.com,Education,30,3738,7,New,Auvergne-Rhône-Alpes,Event
+L0073,Paul Robert,user73@example.com,Education,57,23116,37,New,Provence-Alpes-Côte d'Azur,Paid Ad
+L0074,Hugo Durand,user74@example.com,Retail,29,6387,11,SQL,Île-de-France,Paid Ad
+L0075,Hugo Bernard,user75@example.com,Education,17,9002,23,Customer,Provence-Alpes-Côte d'Azur,Event
+L0076,Sophie Lemoine,user76@example.com,Retail,16,6536,27,SQL,Île-de-France,Paid Ad
+L0077,Julien Moreau,user77@example.com,Tech,76,14479,52,New,Hauts-de-France,Webinar
+L0078,Marie Martin,user78@example.com,Healthcare,26,4913,7,Customer,Occitanie,Paid Ad
+L0079,Marie Martin,user79@example.com,Healthcare,42,18450,57,MQL,Île-de-France,Organic
+L0080,Hugo Robert,user80@example.com,Healthcare,57,21764,27,MQL,Provence-Alpes-Côte d'Azur,Paid Ad
+L0081,Julien Moreau,user81@example.com,Education,85,11636,35,New,Hauts-de-France,Referral
+L0082,Sophie Lemoine,user82@example.com,Tech,68,21491,25,SQL,Île-de-France,Webinar
+L0083,Marie Roux,user83@example.com,Education,95,6726,7,New,Auvergne-Rhône-Alpes,Referral
+L0084,Luc Petit,user84@example.com,Education,31,4373,57,SQL,Occitanie,Referral
+L0085,Sophie Lemoine,user85@example.com,Tech,39,13161,59,Customer,Île-de-France,Organic
+L0086,Emma Robert,user86@example.com,Tech,47,3082,49,New,Hauts-de-France,Webinar
+L0087,Hugo Moreau,user87@example.com,Tech,60,24132,27,SQL,Auvergne-Rhône-Alpes,Webinar
+L0088,Luc Moreau,user88@example.com,Tech,63,17281,27,MQL,Hauts-de-France,Webinar
+L0089,Luc Moreau,user89@example.com,Healthcare,17,16305,36,MQL,Hauts-de-France,Webinar
+L0090,Luc Petit,user90@example.com,Finance,36,10817,40,MQL,Auvergne-Rhône-Alpes,Webinar
+L0091,Julien Moreau,user91@example.com,Finance,36,12261,35,MQL,Hauts-de-France,Organic
+L0092,Lea Durand,user92@example.com,Tech,30,1417,26,SQL,Auvergne-Rhône-Alpes,Paid Ad
+L0093,Lea Martin,user93@example.com,Finance,39,9808,53,MQL,Île-de-France,Referral
+L0094,Sophie Petit,user94@example.com,Finance,37,21358,16,SQL,Auvergne-Rhône-Alpes,Webinar
+L0095,Paul Roux,user95@example.com,Tech,73,4267,8,SQL,Auvergne-Rhône-Alpes,Paid Ad
+L0096,Luc Lemoine,user96@example.com,Finance,78,18209,32,SQL,Occitanie,Paid Ad
+L0097,Julien Lemoine,user97@example.com,Education,70,6745,52,SQL,Auvergne-Rhône-Alpes,Referral
+L0098,Emma Robert,user98@example.com,Retail,57,12338,19,SQL,Auvergne-Rhône-Alpes,Organic
+L0099,Hugo Moreau,user99@example.com,Retail,28,1412,12,MQL,Île-de-France,Event
+L0100,Sophie Durand,user100@example.com,Tech,13,8543,27,MQL,Occitanie,Event
+L0101,Luc Moreau,user101@example.com,Healthcare,44,8587,47,Customer,Provence-Alpes-Côte d'Azur,Paid Ad
+L0102,Paul Lemoine,user102@example.com,Tech,73,1728,28,SQL,Île-de-France,Referral
+L0103,Julien Robert,user103@example.com,Healthcare,58,24548,12,MQL,Île-de-France,Event
+L0104,Emma Bernard,user104@example.com,Retail,26,12657,45,MQL,Provence-Alpes-Côte d'Azur,Paid Ad
+L0105,Luc Durand,user105@example.com,Tech,53,6988,34,MQL,Auvergne-Rhône-Alpes,Organic
+L0106,Lea Bernard,user106@example.com,Education,39,19888,5,Lost,Hauts-de-France,Event
+L0107,Marie Roux,user107@example.com,Finance,55,3967,17,New,Occitanie,Paid Ad
+L0108,Emma Petit,user108@example.com,Healthcare,15,15527,50,MQL,Hauts-de-France,Paid Ad
+L0109,Marie Lemoine,user109@example.com,Finance,46,20170,4,MQL,Provence-Alpes-Côte d'Azur,Webinar
+L0110,Luc Bernard,user110@example.com,Finance,33,17048,46,MQL,Île-de-France,Organic
+L0111,Marie Robert,user111@example.com,Tech,55,18506,24,Customer,Île-de-France,Webinar
+L0112,Emma Martin,user112@example.com,Finance,62,21463,1,New,Occitanie,Referral
+L0113,Julien Martin,user113@example.com,Education,69,18955,9,Customer,Île-de-France,Webinar
+L0114,Marie Durand,user114@example.com,Finance,72,6073,55,New,Île-de-France,Webinar
+L0115,Marie Bernard,user115@example.com,Tech,94,6104,29,Customer,Occitanie,Event
+L0116,Emma Bernard,user116@example.com,Education,41,3143,49,New,Occitanie,Paid Ad
+L0117,Lea Martin,user117@example.com,Retail,96,24190,58,New,Provence-Alpes-Côte d'Azur,Organic
+L0118,Paul Moreau,user118@example.com,Finance,42,8357,44,SQL,Île-de-France,Webinar
+L0119,Emma Bernard,user119@example.com,Tech,76,13043,4,Lost,Île-de-France,Organic
+L0120,Marie Robert,user120@example.com,Retail,27,4440,54,Customer,Provence-Alpes-Côte d'Azur,Webinar
+L0121,Paul Bernard,user121@example.com,Retail,34,21150,55,SQL,Auvergne-Rhône-Alpes,Referral
+L0122,Emma Bernard,user122@example.com,Healthcare,63,6644,32,Lost,Auvergne-Rhône-Alpes,Webinar
+L0123,Emma Roux,user123@example.com,Education,67,11518,53,New,Auvergne-Rhône-Alpes,Event
+L0124,Marie Petit,user124@example.com,Finance,76,15552,0,Lost,Provence-Alpes-Côte d'Azur,Paid Ad
+L0125,Lea Petit,user125@example.com,Tech,55,3914,17,MQL,Île-de-France,Referral
+L0126,Julien Roux,user126@example.com,Healthcare,33,22352,31,SQL,Provence-Alpes-Côte d'Azur,Webinar
+L0127,Hugo Roux,user127@example.com,Education,41,23301,46,Customer,Provence-Alpes-Côte d'Azur,Organic
+L0128,Julien Robert,user128@example.com,Healthcare,56,14584,48,SQL,Auvergne-Rhône-Alpes,Referral
+L0129,Sophie Moreau,user129@example.com,Education,95,13144,10,SQL,Hauts-de-France,Referral
+L0130,Lea Lemoine,user130@example.com,Education,32,15397,20,MQL,Île-de-France,Webinar
+L0131,Emma Robert,user131@example.com,Finance,75,9787,25,Customer,Auvergne-Rhône-Alpes,Referral
+L0132,Marie Moreau,user132@example.com,Education,36,15191,24,MQL,Hauts-de-France,Organic
+L0133,Sophie Roux,user133@example.com,Healthcare,11,1728,21,Lost,Hauts-de-France,Referral
+L0134,Sophie Petit,user134@example.com,Education,99,18749,58,SQL,Occitanie,Organic
+L0135,Marie Durand,user135@example.com,Finance,26,21876,26,New,Île-de-France,Webinar
+L0136,Luc Bernard,user136@example.com,Finance,42,1698,48,SQL,Hauts-de-France,Paid Ad
+L0137,Sophie Petit,user137@example.com,Healthcare,18,8186,12,SQL,Auvergne-Rhône-Alpes,Referral
+L0138,Paul Petit,user138@example.com,Retail,52,15512,32,SQL,Occitanie,Paid Ad
+L0139,Emma Lemoine,user139@example.com,Retail,57,14923,33,SQL,Île-de-France,Organic
+L0140,Luc Lemoine,user140@example.com,Education,48,17779,40,New,Provence-Alpes-Côte d'Azur,Referral
+L0141,Emma Petit,user141@example.com,Tech,51,8400,34,SQL,Auvergne-Rhône-Alpes,Event
+L0142,Paul Roux,user142@example.com,Education,35,5171,0,Lost,Hauts-de-France,Paid Ad
+L0143,Lea Bernard,user143@example.com,Healthcare,59,5360,20,MQL,Hauts-de-France,Referral
+L0144,Luc Petit,user144@example.com,Healthcare,34,3502,47,SQL,Auvergne-Rhône-Alpes,Paid Ad
+L0145,Emma Roux,user145@example.com,Healthcare,33,18101,54,MQL,Hauts-de-France,Referral
+L0146,Sophie Bernard,user146@example.com,Healthcare,22,20166,5,MQL,Occitanie,Webinar
+L0147,Julien Durand,user147@example.com,Healthcare,69,22330,27,SQL,Île-de-France,Paid Ad
+L0148,Julien Robert,user148@example.com,Finance,16,6486,16,SQL,Occitanie,Event
+L0149,Sophie Petit,user149@example.com,Retail,66,9335,4,MQL,Hauts-de-France,Event
+L0150,Lea Martin,user150@example.com,Healthcare,45,22364,30,SQL,Provence-Alpes-Côte d'Azur,Organic
+L0151,Lea Bernard,user151@example.com,Tech,54,24650,4,New,Île-de-France,Referral
+L0152,Hugo Martin,user152@example.com,Tech,29,5491,37,New,Île-de-France,Paid Ad
+L0153,Hugo Lemoine,user153@example.com,Tech,74,24576,2,New,Auvergne-Rhône-Alpes,Organic
+L0154,Lea Roux,user154@example.com,Tech,17,12130,52,New,Auvergne-Rhône-Alpes,Paid Ad
+L0155,Hugo Petit,user155@example.com,Finance,25,22972,22,MQL,Provence-Alpes-Côte d'Azur,Referral
+L0156,Luc Moreau,user156@example.com,Tech,23,8651,36,SQL,Île-de-France,Event
+L0157,Lea Lemoine,user157@example.com,Healthcare,85,21020,52,SQL,Provence-Alpes-Côte d'Azur,Webinar
+L0158,Emma Martin,user158@example.com,Education,96,2167,36,New,Auvergne-Rhône-Alpes,Event
+L0159,Emma Durand,user159@example.com,Tech,24,2062,9,Customer,Auvergne-Rhône-Alpes,Organic
+L0160,Hugo Lemoine,user160@example.com,Finance,75,19540,9,SQL,Île-de-France,Webinar
+L0161,Emma Roux,user161@example.com,Finance,41,22545,18,MQL,Occitanie,Organic
+L0162,Paul Martin,user162@example.com,Tech,96,22689,16,Lost,Hauts-de-France,Referral
+L0163,Marie Durand,user163@example.com,Education,72,12174,20,Lost,Auvergne-Rhône-Alpes,Webinar
+L0164,Paul Robert,user164@example.com,Tech,95,23925,13,MQL,Auvergne-Rhône-Alpes,Organic
+L0165,Julien Lemoine,user165@example.com,Finance,60,5729,8,MQL,Occitanie,Referral
+L0166,Lea Petit,user166@example.com,Retail,34,10348,45,Lost,Occitanie,Event
+L0167,Julien Lemoine,user167@example.com,Healthcare,67,24714,0,SQL,Provence-Alpes-Côte d'Azur,Referral
+L0168,Hugo Petit,user168@example.com,Finance,72,6334,50,New,Provence-Alpes-Côte d'Azur,Paid Ad
+L0169,Marie Roux,user169@example.com,Tech,71,9924,44,SQL,Hauts-de-France,Referral
+L0170,Julien Petit,user170@example.com,Healthcare,31,5330,12,Customer,Hauts-de-France,Referral
+L0171,Hugo Bernard,user171@example.com,Tech,67,7801,3,SQL,Île-de-France,Paid Ad
+L0172,Marie Durand,user172@example.com,Tech,67,5846,0,SQL,Provence-Alpes-Côte d'Azur,Organic
+L0173,Paul Robert,user173@example.com,Retail,95,7731,48,Customer,Auvergne-Rhône-Alpes,Organic
+L0174,Marie Durand,user174@example.com,Healthcare,58,16368,39,New,Provence-Alpes-Côte d'Azur,Referral
+L0175,Julien Lemoine,user175@example.com,Healthcare,61,24625,31,MQL,Auvergne-Rhône-Alpes,Paid Ad
+L0176,Lea Lemoine,user176@example.com,Retail,51,18337,33,SQL,Occitanie,Paid Ad
+L0177,Marie Robert,user177@example.com,Finance,79,3539,27,Lost,Provence-Alpes-Côte d'Azur,Event
+L0178,Hugo Bernard,user178@example.com,Tech,24,8056,30,MQL,Occitanie,Organic
+L0179,Julien Robert,user179@example.com,Education,63,12516,7,SQL,Hauts-de-France,Webinar
+L0180,Hugo Martin,user180@example.com,Tech,69,12493,38,SQL,Hauts-de-France,Organic
+L0181,Paul Durand,user181@example.com,Tech,17,2542,25,MQL,Île-de-France,Organic
+L0182,Marie Petit,user182@example.com,Finance,62,22677,57,SQL,Provence-Alpes-Côte d'Azur,Event
+L0183,Hugo Moreau,user183@example.com,Tech,69,14964,33,Customer,Occitanie,Webinar
+L0184,Luc Roux,user184@example.com,Retail,14,18575,53,SQL,Auvergne-Rhône-Alpes,Event
+L0185,Paul Bernard,user185@example.com,Retail,77,7313,53,SQL,Hauts-de-France,Webinar
+L0186,Sophie Moreau,user186@example.com,Healthcare,15,24322,2,MQL,Hauts-de-France,Referral
+L0187,Julien Durand,user187@example.com,Education,56,20065,58,SQL,Auvergne-Rhône-Alpes,Webinar
+L0188,Julien Lemoine,user188@example.com,Tech,64,18924,49,MQL,Occitanie,Event
+L0189,Emma Lemoine,user189@example.com,Tech,49,23556,11,MQL,Occitanie,Organic
+L0190,Lea Bernard,user190@example.com,Finance,61,22925,0,SQL,Provence-Alpes-Côte d'Azur,Webinar
+L0191,Lea Durand,user191@example.com,Retail,25,14807,53,New,Provence-Alpes-Côte d'Azur,Webinar
+L0192,Marie Moreau,user192@example.com,Education,22,10580,43,MQL,Île-de-France,Paid Ad
+L0193,Marie Lemoine,user193@example.com,Healthcare,39,18749,4,SQL,Hauts-de-France,Organic
+L0194,Lea Roux,user194@example.com,Retail,28,9691,29,MQL,Provence-Alpes-Côte d'Azur,Referral
+L0195,Paul Bernard,user195@example.com,Healthcare,26,8494,29,MQL,Occitanie,Event
+L0196,Lea Petit,user196@example.com,Finance,72,5312,58,SQL,Auvergne-Rhône-Alpes,Referral
+L0197,Hugo Petit,user197@example.com,Finance,28,2324,56,SQL,Occitanie,Organic
+L0198,Sophie Martin,user198@example.com,Tech,67,4141,16,New,Hauts-de-France,Webinar
+L0199,Luc Moreau,user199@example.com,Education,64,24803,47,Customer,Occitanie,Webinar
+L0200,Emma Durand,user200@example.com,Healthcare,99,20870,46,MQL,Île-de-France,Organic
