@@ -44,4 +44,4 @@ lead-scoring-crm-dashboard/
 
 ## 📎 Open in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KuXIzjJct5sdK3t62nd6JGTVgvFW0BWP)
