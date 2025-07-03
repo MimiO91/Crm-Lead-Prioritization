@@ -26,9 +26,6 @@ lead-scoring-crm-dashboard/
 ├── Lead_Scoring_CRM_Colab_Notebook.ipynb
 ├── data/
 │   └── leads_dataset.csv
-├── images/
-│   ├── engagement_vs_dealsize.png
-│   └── funnel_stage_counts.png
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
